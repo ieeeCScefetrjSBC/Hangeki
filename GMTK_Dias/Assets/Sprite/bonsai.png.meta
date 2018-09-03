@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 76bed89fcbc23ba498fe200508a94a8c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Torso
+    21300002: "Cabe\xE7a"
+    21300004: "Bra\xE7o Esquerdo"
+    21300006: "Bra\xE7o Direito"
+    21300008: Perna Sup
+    21300010: Perna Inf
+    21300012: "M\xE3o Esquerda"
+    21300014: Luva
+    21300016: "P\xE9"
+    21300018: "M\xE3o Direita"
+    21300020: Espada
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torso
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 536
+        width: 759
+        height: 1044
+      alignment: 9
+      pivot: {x: 0.5184875, y: 0.2016166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b7a8f59823574182bf23cf0becfa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Cabe\xE7a"
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 397
+        height: 407
+      alignment: 9
+      pivot: {x: 0.4647708, y: 0.17882918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82535cbffd0cb43a04109bde31335a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bra\xE7o Esquerdo"
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 216
+        width: 388
+        height: 408
+      alignment: 9
+      pivot: {x: 0.16758697, y: 0.8038424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c6dd123556874da066628ea605d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bra\xE7o Direito"
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 135
+        width: 286
+        height: 490
+      alignment: 9
+      pivot: {x: 0.8246477, y: 0.8060968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67408988dc3c4a4ca649bf729777bb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perna Sup
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1359
+        width: 240
+        height: 392
+      alignment: 9
+      pivot: {x: 0.31408793, y: 0.8494876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ba837522cbb16459050931a083d13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Perna Inf
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 718
+        width: 172
+        height: 413
+      alignment: 9
+      pivot: {x: 0.445568, y: 0.8759272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ccc02ab9838f4a9beae18976042f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\xE3o Esquerda"
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 703
+        width: 293
+        height: 386
+      alignment: 9
+      pivot: {x: 0.23638603, y: 0.91232854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3e6b1074fabd4b9963789cc5c328b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luva
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 706
+        width: 153
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d037ba47cfc464241bc51999919d7d63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "P\xE9"
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1188
+        width: 273
+        height: 187
+      alignment: 9
+      pivot: {x: 0.3714412, y: 0.8845195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c3af211af494245badfeae57c77ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "M\xE3o Direita"
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1317
+        width: 261
+        height: 357
+      alignment: 9
+      pivot: {x: 0.23925453, y: 0.8880653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1113879bdc315246975a0fb0e77c55b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 496
+        width: 294
+        height: 1010
+      alignment: 9
+      pivot: {x: 0.69622463, y: 0.12215029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6966a6d6d52794bb33560227561331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 82ac3f1b44d481c41b2dc35d6cee1573
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
